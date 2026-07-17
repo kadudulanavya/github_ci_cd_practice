@@ -10,4 +10,6 @@
 7. git remote add origin https://github.com/kadudulanavya/github_ci_cd_practice.git
 8. git push -u origin main -->to push the code to remote repository
 9. sign and authorize your account
+10. create a github workflow
+11. git commit 
 """
